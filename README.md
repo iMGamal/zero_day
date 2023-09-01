@@ -1,1 +1,1 @@
-~~Full-stack.~~
+What does uname print
